@@ -1,0 +1,17 @@
+---
+title: "CapStone Project Proposal - Breast Cancer"
+author: "Sourov Ghosh"
+date: "10/23/2018"
+output: html_document
+
+What is the problem you want to solve?
+We have made incredible strides using modern day medicine but cancer and specifically breast cancer from masses i.e. tumors is one that has beaten us time and time again. Patients must go 'under the knife' in order to find out whether their case is malignant or benign, but if we were able to know this beforehand it may alter the course of surgery.
+
+Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
+My clients are doctors and patients alike, because it is there lives on stake, and knowing information such as its malignanty changes the procedure of surgery, because sometimes it may be wiser to wait and see if its benign and other times removal of the breast and chemotherapy is nesecarry. 
+
+What data are you going to use for this? How will you acquire this data?
+Using a data acquired from kaggle which depicts certain physical aspects and characteristics of the tumor, which can easily be obtained from modern dayImaging scans (MRI AND CT scans) in each patient.The data includes a chart in which states the cancerous or noncancerous state of tumors(Y or N) and all the physical attributes of each specific case.
+
+In brief, outline your approach to solving this problem (knowing that this might change later).
+Cancer is typically an exact science, if this this and that are true, the outcome will usually be true logistically of course. My approach is to be able to find a certain trend in the values of each characteristic that make the tumor benign or malignant.
